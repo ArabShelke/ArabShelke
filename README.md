@@ -15,8 +15,18 @@
 
 ## 🛠️ Skills:
 - C Programming
-- Basic Problem Solving
 - Git & GitHub
+- Problem Solving (Beginner)
+
+---
+
+## 📊 GitHub Stats:
+![Arab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak:
+![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=radical)
 
 ---
 
@@ -25,11 +35,4 @@ To become a strong software developer and build real-world projects.
 
 ---
 
-## 📈 GitHub Activity:
-- Daily commits
-- Continuous learning
-
----
-
-⭐ "Consistency beats talent"## Hi there 👋
-
+⭐ "Consistency beats talent"
