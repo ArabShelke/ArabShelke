@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight)
 
 ---
 
