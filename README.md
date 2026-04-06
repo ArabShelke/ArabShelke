@@ -35,4 +35,4 @@ To become a strong software developer and build real-world projects.
 
 ---
 
-⭐ "Consistency beats talent"
+.
