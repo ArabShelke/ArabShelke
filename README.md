@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Skills:
-- C Programming (Basics → Intermediate)
+- C Programming (Basics → Intermediate -> Pro ) 
 - Git & GitHub (Version Control)
 - Problem Solving (Daily Practice)
 
