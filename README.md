@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arab Shelke
+Hi 👋, I'm Arab Shelke
 
 🎓 BTech CSE (AI/ML) Student  
 💻 Passionate about Programming & Development  
