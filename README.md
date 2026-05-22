@@ -1,36 +1,44 @@
-Hi 👋, I'm Arab Shelke
+Hi , I'm Arab Shelke
 
-🎓 BTech CSE (AI/ML) Student  
-💻 Passionate about Programming & Development  
-🚀 Currently learning C, Python, and Core Concepts  
-
----
-
-## 🔥 What I'm Doing:
-- 📘 Mastering C Programming
-- 🧠 Building strong fundamentals
-- 💻 Practicing daily on GitHub
+BTech CSE (AI/ML) Student  
+Passionate about Programming & Development  
+Currently learning C, Python, and Core Concepts  
 
 ---
 
-## 🛠️ Skills:
-- C Programming (Basics → Intermediate) 
-- Git & GitHub (Version Control)
-- Problem Solving (Daily Practice)
+##  What I'm Doing:
+-  Mastering C Programming
+-  Building strong fundamentals
+-  Practicing daily on GitHub
 
 ---
 
-## 📊 GitHub Stats:
+##  Skills:
+-  C Programming (Basics → Intermediate) 
+-  Git & GitHub (Version Control)
+-  Problem Solving (Daily Practice)
+
+---
+
+##  Mini Projects
+
+-  Calculator (Using If-Else)
+-  Function-Based Calculator
+-  Scientific Calculator
+
+---
+
+##  GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 Streak:
+##  Streak:
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=radical)
 
 ---
 
-## 🎯 Goal:
+##  Goal:
 To become a strong software developer and build real-world projects.
 
 ---
