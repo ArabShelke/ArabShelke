@@ -14,7 +14,7 @@ Hi 👋, I'm Arab Shelke
 ---
 
 ## 🛠️ Skills:
-- C Programming (Basics → Intermediate -> Pro ) 
+- C Programming (Basics → Intermediate) 
 - Git & GitHub (Version Control)
 - Problem Solving (Daily Practice)
 
