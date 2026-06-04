@@ -73,6 +73,14 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyo-night&hide_border=true)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&rank_icon=github)
+
+![Metrics](https://metrics.lecoq.io/ArabShelke)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyo-night)
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)
+
 ---
 
 ## Goals
