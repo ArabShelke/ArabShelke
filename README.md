@@ -34,15 +34,9 @@ Currently learning C, Python, and Core Concepts
 
 ---
 
-##  GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=radical&hide_border=true)
 
----
 
-##  Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=radical&hide_border=true)
-
-github activity
+## Github activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com?user=ArabShelke&theme=radical&hide_border=true" height="180"/>
