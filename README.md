@@ -71,6 +71,8 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=tokyonight&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyo-night&hide_border=true)
+
 ---
 
 ## Goals
