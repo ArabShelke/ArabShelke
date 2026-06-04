@@ -69,6 +69,8 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=radical&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=tokyonight&hide_border=true)
+
 ---
 
 ## Goals
