@@ -32,16 +32,21 @@ Currently learning C, Python, and Core Concepts
 -  Function-Based Calculator
 -  Scientific Calculator
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArabShelke&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
+## 📈 Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=radical&hide_border=true)
 
-## Github activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=ArabShelke&theme=radical&hide_border=true" height="180"/>
-</p>
 ---
+
+## 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=radical&hide_border=true)
 
 ##  Goal:
 To become a strong software developer and build real-world projects.
@@ -49,3 +54,6 @@ To become a strong software developer and build real-world projects.
 ---
 
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/ArabShelke/ArabShelke/blob/output/github-contribution-grid-snake-dark.svg)
