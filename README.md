@@ -34,7 +34,7 @@ Currently learning C, Python, and Core Concepts
 ---
 
 ##  Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=tokyonight&hide_border=true)
 
 ---
 
