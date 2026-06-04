@@ -61,13 +61,13 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ## GitHub Overview
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArabShelke\&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArabShelke&theme=github_dark)
 
-![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArabShelke\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArabShelke\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArabShelke&layout=compact&theme=tokyonight&hide_border=true)
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArabShelke\&theme=github_dark\&utcOffset=5)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyo-night&hide_border=true)
 
 ---
 
