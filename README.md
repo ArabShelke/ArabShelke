@@ -1,46 +1,92 @@
-##Hi , I'm Arab Shelke
+# Hi, I'm Arab Shelke 👋
+
+### BTech CSE (AI/ML) Student
+
+I am currently focused on building strong programming fundamentals through consistent coding practice, problem solving, and project-based learning. My primary interests include Software Development, Artificial Intelligence, Machine Learning, and Computer Science fundamentals.
 
 ---
 
-##BTech CSE (AI/ML) Student  
-- Passionate about Programming & Development  
-- Currently learning C, Python, and Core Concepts  
+## Current Focus
+
+* C Programming
+* Python
+* Data Structures & Algorithms
+* Git & GitHub
+* Artificial Intelligence & Machine Learning
 
 ---
 
-##  What I'm Doing:
--  Mastering C Programming
--  Building strong fundamentals
--  Practicing daily on GitHub
+## What I'm Working On
+
+* Strengthening programming fundamentals
+* Practicing coding daily
+* Building a structured C Programming repository
+* Learning industry-standard development workflows
+* Developing problem-solving skills through hands-on practice
 
 ---
 
-##  Skills:
--  C Programming (Basics → Intermediate) 
--  Git & GitHub (Version Control)
--  Problem Solving (Daily Practice)
+## Technical Skills
+
+* C
+* Python
+* Git
+* GitHub
+* VS Code
 
 ---
 
-##  Mini Projects
+## C Programming Repository
 
--  Calculator (Using If-Else)
--  Function-Based Calculator
--  Scientific Calculator
+This repository documents my learning journey in C Programming and contains organized practice programs covering:
+
+* Basics
+* Operators
+* Type Casting
+* Control Statements
+* Loops
+* Break & Continue
+* Functions
+* Recursion
+* Arrays
+* Strings
+* Pointers
+* Goto Statements
+* Practice Programs
+* Revision Exercises
+
+The goal of this repository is to build a strong understanding of programming fundamentals through consistent practice and implementation.
 
 ---
 
-##  GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=radical&hide_border=true)
+## GitHub Overview
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArabShelke\&theme=github_dark)
+
+![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArabShelke\&theme=github_dark)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArabShelke\&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArabShelke\&theme=github_dark\&utcOffset=5)
 
 ---
 
-##  Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=radical&hide_border=true)
+## Goals
+
+### Short-Term
+
+* Master C Programming
+* Improve problem-solving skills
+* Learn Data Structures & Algorithms
+* Build practical projects
+
+### Long-Term
+
+* Become a skilled Software Engineer
+* Develop AI/ML applications
+* Build real-world software solutions
+* Contribute consistently to open-source and personal projects
 
 ---
 
-##  Goal:
-To become a strong software developer and build real-world projects.
-
----
+> Consistency over intensity. Small progress every day leads to long-term growth.
