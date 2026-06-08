@@ -75,11 +75,6 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ---
 
-## 🐍 My Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/ArabShelke/ArabShelke/output/github-contribution-grid-snake.svg)
-
-
 ## Goals
 
 ### Short-Term
