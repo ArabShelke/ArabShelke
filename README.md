@@ -62,16 +62,13 @@ The goal of this repository is to build a strong understanding of programming fu
 ## GitHub Overview
 
 ### Overview
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArabShelke&theme=github_dark)
+[![Profile Details](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight)](https://github.com/ArabShelke)
 
 ### Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyo-night&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight)](https://github.com/ArabShelke)
 
 ### Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArabShelke&theme=tokyonight&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArabShelke&theme=tokyonight&v=2)](https://git.io/streak-stats)
 
 ---
 
