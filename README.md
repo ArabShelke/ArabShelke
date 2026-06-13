@@ -62,7 +62,8 @@ The goal of this repository is to build a strong understanding of programming fu
 ## GitHub Overview
 
 ### Overview
-[![Profile Details](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=rosepine&title_color=ea76cb&icon_color=ea76cb&text_color=e64553&bg_color=f4d9e6&v=5)](https://github.com/ArabShelke)
+### Overview
+<img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=rosepine&title_color=ea76cb&icon_color=ea76cb&text_color=e64553&bg_color=f4d9e6" alt="Profile Details" />
 
 ### Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight)](https://github.com/ArabShelke)
