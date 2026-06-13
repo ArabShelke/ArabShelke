@@ -59,6 +59,8 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](APNI_LINKEDIN_LINK_YAHAN_DALO)
+
 ## GitHub Overview
 
 ### Overview
