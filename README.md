@@ -71,7 +71,7 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ### Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ArabShelke&theme=rosepine&v=3)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArabShelke&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## Goals
