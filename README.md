@@ -63,7 +63,6 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ## GitHub Overview
 
-### Overview
 <h3 align="center">GitHub Overview</h3>
 
 <p align="left">
