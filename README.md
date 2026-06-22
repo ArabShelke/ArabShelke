@@ -79,8 +79,29 @@ The goal of this repository is to build a strong understanding of programming fu
   </a>
 </p>
 
-### Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight)](https://github.com/ArabShelke)
+<h3 align="left">GitHub Overview</h3>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=rose" alt="Arab Raosaheb Shelke's GitHub Stats" />
+  </a>
+</p>
+
+<h3 align="left">Streak</h3>
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ArabShelke&theme=rose" alt="GitHub Streak" />
+  </a>
+</p>
+
+<h3 align="left">Contribution Graph</h3>
+
+<p align="left">
+  <a href="https://github.com/ashishmaraviya/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=rose" alt="Arab Raosaheb Shelke's Activity Graph" />
+  </a>
+</p>
 
 ---
 
