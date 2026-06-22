@@ -64,8 +64,8 @@ The goal of this repository is to build a strong understanding of programming fu
 ## GitHub Overview
 
 ### Overview
+<h3 align="center">GitHub Overview</h3>
 
-GitHub Overview
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=default" alt="Arab Raosaheb Shelke's GitHub Stats" />
