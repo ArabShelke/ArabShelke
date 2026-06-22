@@ -83,7 +83,7 @@ The goal of this repository is to build a strong understanding of programming fu
 
 <p align="left">
   <a href="https://github.com/ashishmaraviya/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=rose" alt="Arab Raosaheb Shelke's Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=dracula&bg_color=fdf6e3&color=9d174d&line=9d174d&point=9d174d" alt="Arab Raosaheb Shelke's Activity Graph" />
   </a>
 </p>
 
