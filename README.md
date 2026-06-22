@@ -70,7 +70,11 @@ The goal of this repository is to build a strong understanding of programming fu
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight)](https://github.com/ArabShelke)
 
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArabShelke&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ArabShelke&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 
 ## Goals
