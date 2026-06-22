@@ -69,6 +69,7 @@ The goal of this repository is to build a strong understanding of programming fu
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=default" alt="Arab Raosaheb Shelke's GitHub Stats" />
+<h3 align="center">Streak</h3>
   </a>
   <br />
   <a href="https://git.io/streak-stats">
