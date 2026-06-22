@@ -80,7 +80,7 @@ The goal of this repository is to build a strong understanding of programming fu
   </a>
 </p>
 
-### Contribution Graph
+<h3 align="center">Contribution Graph</h3>
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight)](https://github.com/ArabShelke)
 
 ---
