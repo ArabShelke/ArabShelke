@@ -63,7 +63,7 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ## GitHub Overview
 
-<h3 align="center">GitHub Overview</h3>
+<h3 align="left">GitHub Overview</h3>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -71,7 +71,7 @@ The goal of this repository is to build a strong understanding of programming fu
   </a>
 </p>
 
-<h3 align="center">Streak</h3>
+<h3 align="left">Streak</h3>
 
 <p align="left">
   <a href="https://git.io/streak-stats">
