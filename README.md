@@ -89,6 +89,18 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ---
 
+### GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=custom&bg_color=f3e8ff&title_color=6b21a8&text_color=4c1d95&icon_color=7c3aed&border_color=d8b4fe" alt="Arab Raosaheb Shelke's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ArabShelke&theme=custom&background=f3e8ff&title=6b21a8&stats=4c1d95&accent=7c3aed&fire=7c3aed&ring=d8b4fe" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&bg_color=f3e8ff&color=6b21a8&line=7c3aed&point=4c1d95&area=true&hide_border=false&border_color=d8b4fe" alt="Arab Raosaheb Shelke's Activity Graph" width="100%" />
+</p>
+
+
 ## Goals
 
 ### Short-Term
