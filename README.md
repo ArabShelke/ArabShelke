@@ -66,8 +66,15 @@ The goal of this repository is to build a strong understanding of programming fu
 ### 📊 GitHub Overview
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Arab Raosaheb Shelke's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" height="180" />
+  <!-- GitHub Trophies (Yeh tumhari streaks aur stats ko trophies me dikhaega, ekdum mast dikhta hai) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ArabShelke&theme=tokyonight&no-bg=true&margin-w=15" alt="ArabShelke Trophies" />
+  </a>
+</p>
+
+<p align="left">
+  <!-- Alternative Stats Card -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&hide_border=true" alt="Arab Stats" height="180" />
 </p>
 
 ### 📈 Contribution Graph
