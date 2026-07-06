@@ -63,30 +63,14 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ## GitHub Overview
 
-<h3 align="left">GitHub Overview</h3>
+### 📊 GitHub Overview
+[![Arab Raosaheb Shelke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=rose" alt="Arab Raosaheb Shelke's GitHub Stats" />
-  </a>
-</p>
+### 🔥 Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<h3 align="left">Streak</h3>
-
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ArabShelke&theme=rose" alt="GitHub Streak" />
-  </a>
-</p>
-
-<h3 align="left">Contribution Graph</h3>
-
-<p align="left">
-  <a href="https://github.com/ashishmaraviya/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=dracula&bg_color=fdf6e3&color=9d174d&line=9d174d&point=9d174d" alt="Arab Raosaheb Shelke's Activity Graph" />
-  </a>
-</p>
-
+### 📈 Contribution Graph
+[![Arab Raosaheb Shelke's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight&hide_border=true)](https://github.com/ashishmaraviya/github-readme-activity-graph)
 ---
 
 ## Goals
