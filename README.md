@@ -64,10 +64,11 @@ The goal of this repository is to build a strong understanding of programming fu
 ## GitHub Overview
 
 ### 📊 GitHub Overview
-[![Arab Raosaheb Shelke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Arab Raosaheb Shelke's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" height="180" />
+</p>
 
 ### 📈 Contribution Graph
 [![Arab Raosaheb Shelke's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight&hide_border=true)](https://github.com/ashishmaraviya/github-readme-activity-graph)
