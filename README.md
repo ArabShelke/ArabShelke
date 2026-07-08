@@ -71,6 +71,10 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ### 📈 Contribution Graph
 [![Arab Raosaheb Shelke's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight&hide_border=true)](https://github.com/ashishmaraviya/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArabShelke&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 ---
 
 ## Goals
