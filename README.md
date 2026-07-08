@@ -64,7 +64,10 @@ The goal of this repository is to build a strong understanding of programming fu
 ## GitHub Overview
 
 ### 📊 GitHub Overview
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ArabShelke&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ### 📈 Contribution Graph
 [![Arab Raosaheb Shelke's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight&hide_border=true)](https://github.com/ashishmaraviya/github-readme-activity-graph)
