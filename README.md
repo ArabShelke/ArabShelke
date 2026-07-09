@@ -61,23 +61,13 @@ The goal of this repository is to build a strong understanding of programming fu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](APNI_LINKEDIN_LINK_YAHAN_DALO)
 
-## GitHub Overview
+## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&count_private=true" alt="Arab Raosaheb Shelke's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArabShelke&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Arab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&count_private=true)
 
-### 🔥 Streak Stats
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ArabShelke&theme=tokyonight" alt="GitHub Streak" />
-</p>
-### 📈 Contribution Graph
-[![Arab Raosaheb Shelke's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight&hide_border=true)](https://github.com/ashishmaraviya/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArabShelke&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArabShelke&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArabShelke&theme=tokyonight)
 ---
 
 ## Goals
