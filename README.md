@@ -70,9 +70,8 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ### 🔥 Streak Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ArabShelke&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ### 📈 Contribution Graph
 [![Arab Raosaheb Shelke's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=tokyonight&hide_border=true)](https://github.com/ashishmaraviya/github-readme-activity-graph)
 
