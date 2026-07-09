@@ -63,10 +63,14 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ## GitHub Overview
 
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ArabShelke&theme=tokyonight&hide_border=true" height="170"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&count_private=true" alt="Arab Raosaheb Shelke's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArabShelke&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 🔥 Streak Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 📈 Contribution Graph
