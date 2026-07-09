@@ -63,7 +63,7 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ## 📊 GitHub Analytics
 
-![Arab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArabShelke&layout=compact&theme=tokyonight)
 
