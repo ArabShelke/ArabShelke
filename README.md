@@ -69,9 +69,10 @@ The goal of this repository is to build a strong understanding of programming fu
 <!-- Daily Contribution Graph (Pichle 31 din ka code push graph) -->
 [![ArabShelke's Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- GitHub Streak Stats -->
-[![ArabShelke's GitHub Streak](https://streak-stats.demolab.com/?user=ArabShelke&theme=dark)](https://git.io/streak-stats)
+<!-- GitHub Streak Stats (Fixed URL) -->
+![ArabShelke's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=dark)
 
+---
 
 ## Goals
 
