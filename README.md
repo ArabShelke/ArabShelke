@@ -61,6 +61,18 @@ The goal of this repository is to build a strong understanding of programming fu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](APNI_LINKEDIN_LINK_YAHAN_DALO)
 
+### 📊 GitHub Analytics
+
+<!-- GitHub Overall Stats -->
+[![ArabShelke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Daily Contribution Graph (Pichle 31 din ka code push graph) -->
+[![ArabShelke's Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- GitHub Streak Stats -->
+[![ArabShelke's GitHub Streak](https://streak-stats.demolab.com/?user=ArabShelke&theme=dark)](https://git.io/streak-stats)
+
+
 ## Goals
 
 ### Short-Term
