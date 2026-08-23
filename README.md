@@ -68,7 +68,9 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ### 📊 GitHub Stats & Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=transparent)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=tokyonight)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=pink)](https://git.io/streak-stats)
 
 ---
 
