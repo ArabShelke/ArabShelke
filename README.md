@@ -67,14 +67,7 @@ The goal of this repository is to build a strong understanding of programming fu
 [![ArabShelke's Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArabShelke&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArabShelke&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=dark)](https://git.io/streak-stats)
 
 ---
 
