@@ -68,8 +68,12 @@ The goal of this repository is to build a strong understanding of programming fu
 
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArabShelke&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ArabShelke&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArabShelke&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
