@@ -62,9 +62,7 @@ The goal of this repository is to build a strong understanding of programming fu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](APNI_LINKEDIN_LINK_YAHAN_DALO)
 
 ### 📊 GitHub Analytics
-
-<!-- Daily Contribution Graph (Pichle 31 din ka code push graph) -->
-[![ArabShelke's Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=cyber-streakglow)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke)](https://github.com/ArabShelke/github-readme-activity-graph)
 
 ### 📊 GitHub Stats & Streak
 
