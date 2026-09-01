@@ -67,6 +67,9 @@ The goal of this repository is to build a strong understanding of programming fu
 ### 📈 Daily Contribution Graph
 [![Arab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=react&bg_color=0D1117&hide_border=true&color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
+### 📈 Activity Line Graph
+[![Arab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=react&bg_color=0D1117&hide_border=true&color=58A6FF)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ### 📊 GitHub Stats & Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=cyber-streakglow)](https://git.io/streak-stats)
