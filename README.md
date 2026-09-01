@@ -64,6 +64,30 @@ The goal of this repository is to build a strong understanding of programming fu
 ### 📊 GitHub Analytics
 [![Arab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
+name: Generate Contribution Snake Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ### 📊 GitHub Stats & Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArabShelke&theme=cyber-streakglow)](https://git.io/streak-stats)
