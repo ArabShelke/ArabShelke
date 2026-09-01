@@ -64,8 +64,8 @@ The goal of this repository is to build a strong understanding of programming fu
 ### 📊 GitHub Analytics
 [![Arab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArabShelke&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ArabShelke/ArabShelke/output/github-snake-dark.svg)
-
+### 📈 Daily Contribution Graph
+[![Arab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArabShelke&theme=react&bg_color=0D1117&hide_border=true&color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ### 📊 GitHub Stats & Streak
 
